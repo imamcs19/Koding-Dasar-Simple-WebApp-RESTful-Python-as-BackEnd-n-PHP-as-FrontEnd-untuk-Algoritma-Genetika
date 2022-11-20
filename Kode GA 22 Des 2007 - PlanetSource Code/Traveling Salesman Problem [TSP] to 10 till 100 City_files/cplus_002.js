@@ -1,0 +1,1 @@
+document.write('<iframe frameborder=\"0\" height=\"280\" width=\"336\" src=\"http://ads2.exhedra.com/ads/ShowAd.Asp?lngSlotId=15&lngWId=3&blnSupressOutput=False&strBgColor=white&vstrUniquePageId=<UNIQUE_ID>&blnJScriptInclude=False\n\" hspace=\"0\" vspace=\"0\"  marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\"></iframe>');
