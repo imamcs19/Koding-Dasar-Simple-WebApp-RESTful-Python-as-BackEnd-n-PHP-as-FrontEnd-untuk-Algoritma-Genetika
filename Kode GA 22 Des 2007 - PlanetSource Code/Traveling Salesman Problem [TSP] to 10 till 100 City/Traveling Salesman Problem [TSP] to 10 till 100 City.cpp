@@ -10,7 +10,7 @@
 #include <string.h>
 
 // by: Imam Cholissodin | 22 Desember 2007
-// Big Thanks to All, especially to my friend Math'03 a.n. Adul atau Haris :D
+// Big Thanks to All, especially to help my friend Math'03 a.n. Adul atau Haris :D
 
 
 typedef float Real;
