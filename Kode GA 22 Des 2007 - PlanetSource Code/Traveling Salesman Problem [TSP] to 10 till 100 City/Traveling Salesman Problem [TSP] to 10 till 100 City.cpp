@@ -9,6 +9,10 @@
 #include <stdlib.h>
 #include <string.h>
 
+// by: Imam Cholissodin | 22 Desember 2007
+// Big Thanks to All, especially to my friend Math'03 a.n. Adul atau Haris :D
+
+
 typedef float Real;
 
 class SimpleFArray {
